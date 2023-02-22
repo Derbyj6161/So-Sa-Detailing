@@ -1,7 +1,5 @@
 .hero{
-    background-color: rgb(71, 70, 71);
     background-image: url(/media/marvin-meyer-4Lh-4xE5_Js-unsplash.jpg);
-    background-blend-mode:overlay;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
